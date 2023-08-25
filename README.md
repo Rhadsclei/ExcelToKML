@@ -9,7 +9,7 @@
 ## Conteúdo
 - [Requisitos](#requisitos)
 - [Estrutura](#estrutura)
-- [Planilhas presentes](#planilhas presentes)
+- [Planilhas](#planilhas)
 
 ## Requisitos:
        Habilitar macros.
