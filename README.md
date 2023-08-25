@@ -38,7 +38,6 @@ ExcelToKML --
                 |-- Os arquivos .py desta funcionalidade serão exibidos neste nível e executados pelo arquivo "Exec.bat". Os arquivos de saída serão gerados na pasta um nível acima "KML"
             |-- Dependencies.bat: Arquivo em lotes que deverá ser executado uma única vez para a instalação dos plugins "simplelml, polycircles e numpy".
             |-- ExcelToKML: Pasta de trabalho contendo as planilhas com as funcionalidades deste projeto.
-![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/bb9b33d0-442c-4a4d-aba4-85d3958bf7cd)
 
 Planilhas presentes:            
 XLSTOKML:
@@ -56,28 +55,9 @@ Esta planilha cria um polígono com X lados e Y raio á partir de coordenadas (l
   Altitude (m) e Topologia: Altitude do polígono em relação ao solo (inteiro e em metros) seguido da topologia do polígono (preso, absoluto ou relativo ao solo).
   Alongar até o solo? Sim/Não: Opção de alongar traçado do polígono até o solo.
   Formato de Saída: Descrição - Nome
-![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/602ce66a-727a-4ccf-9cfa-9e8adad6c822)
-Dois pontos ao redos dos quais serão gerados os polígonos com 600 lados, a título de exemplo.
 
+![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/41a71d8d-d80d-4cc0-b8d7-46125be2cb4d)
 
-![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/3b5d9d1e-44e6-4e7a-be73-2e854c10eaca)
-Arquivos gerados em tempo de execução na pasta "Python Scripts".
-
-
-![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/a3e00b22-46d0-4b39-87c3-35460b67b056)
-Arquivos gerados em tempo de execução na pasta "KML".
-
-
-![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/88d042f3-9a28-41da-9602-d51ac2f19947)
-Note que os polígonos acompanham o relevo do local. Esta imagem indica que o lado direito do polígono da RM-01 fica parcialmente bloqueado por causa disso.
-A RM-02 fica apenas com parte do seu lado esquerdo bloquado por uma árvore.
-
-
-![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/4ad16b05-3f3c-4868-b380-5c1cea8e55cc)
-Observe a perspectiva do polígono á partir da altitude estipulada.
-
-
-![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/9bf9c430-b8a5-4741-93ad-6e5f1f4a248b)
 Alterando a quantidade de vértices, este é o resultado.
 
 
