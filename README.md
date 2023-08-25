@@ -49,7 +49,7 @@
 
 
 
-## Planilhas presentes: 
+## Planilhas: 
 
 ![image](https://github.com/Rhadsclei/ExcelToKML/assets/143188137/a492a5b5-c8b2-41de-ac76-b85e73567c53)
 
